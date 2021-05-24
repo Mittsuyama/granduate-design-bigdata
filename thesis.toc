@@ -1,0 +1,61 @@
+\contentsline {chapter}{\heiti 摘\hspace {\ccwd }要}{I}{section*.2}%
+\contentsline {chapter}{\heiti Abstract}{II}{section*.4}%
+\contentsline {chapter}{\heiti 物理量名称及符号表}{III}{section*.6}%
+\vspace {\baselineskip }
+\contentsline {chapter}{\numberline {第1章}绪论}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}研究课题的来源、背景和意义}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}国内外与课题相关研究领域的研究进展及成果}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}大数据及其相关理论和应用的发展概况}{1}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}手机信令数据与职住特分析的相关理论和发展概况}{3}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}城市功能区与用户行为目的和职住特征分析研究进展及成果}{4}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}大数据下的职住空间聚类算法的分析和改进}{5}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}基于手机信令的用户特征画像分析相关研究进展及成果}{6}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}存在的不足或有待深入研究的问题}{6}{subsection.1.2.6}%
+\contentsline {section}{\numberline {1.3}本课题的主要研究内容概述}{6}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}数据分析与可用性判断}{6}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}大数据下 K-Means 聚类方法的分析和优化}{7}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}哈尔滨市栅格化处理以及对栅格化后的街区类型分析}{7}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}大数据系统及其套件的分析和比较}{8}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}基于手机信令数据的用户驻留点判定}{8}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}基于手机信令数据的不同时间段用户访问街区类型偏好}{8}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}基于手机应用数据的不同时间段用户手机应用类型偏好}{9}{subsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.3.8}基于手机通信数据的用户社交习惯和偏好分析}{9}{subsection.1.3.8}%
+\contentsline {subsection}{\numberline {1.3.9}基于手机信令数据的用户职业特征与家庭特征分析}{9}{subsection.1.3.9}%
+\contentsline {chapter}{\numberline {第2章}原始数据统计性描述、可用性分析和冗余与错误清理}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}原数数据分析与统计性描述}{10}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}用户与基站连接记录数据分析}{10}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}基站基本信息表分析与描述性统计}{10}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}哈尔滨市 POI 兴趣点爬取、处理和描述分析}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}用户手机应用使用流量记录表分析}{12}{section.2.3}%
+\contentsline {section}{\numberline {2.4}用户通话和短信使用记录数据表分析}{13}{section.2.4}%
+\contentsline {section}{\numberline {2.5}本章小结}{15}{section.2.5}%
+\contentsline {chapter}{\numberline {第3章}哈尔滨市城区 POI 兴趣点数据获分析和栅格化街区聚类分析}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}哈尔滨市城区 POI 兴趣点数据具体分析}{16}{section.3.1}%
+\contentsline {section}{\numberline {3.2}基于路网和栅格化的功能区聚类分析模型对比}{17}{section.3.2}%
+\contentsline {section}{\numberline {3.3}功能区的栅格化参数的分析和对比}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}本章小结}{17}{section.3.4}%
+\contentsline {chapter}{\numberline {第4章}大数据领域下聚类方法的对比和在哈尔滨城市功能区的聚类结果分析}{18}{chapter.4}%
+\contentsline {section}{\numberline {4.1}DBSCAN 聚类算法概述和分析}{18}{section.4.1}%
+\contentsline {section}{\numberline {4.2}K-Means 聚类算法概述}{18}{section.4.2}%
+\contentsline {section}{\numberline {4.3}K-Means 初始质心选择优化 K-Means++ 算法}{18}{section.4.3}%
+\contentsline {section}{\numberline {4.4}大样本优化 Mini Batch K-Means 算法}{19}{section.4.4}%
+\contentsline {section}{\numberline {4.5}哈尔滨市功能区聚类结果分析和展示}{19}{section.4.5}%
+\contentsline {section}{\numberline {4.6}本章小结}{19}{section.4.6}%
+\contentsline {chapter}{\numberline {第5章}大数据系统不同计算框架的分析与对比}{20}{chapter.5}%
+\contentsline {chapter}{\numberline {第6章}基于手机信令数据的用户驻留点、手机应用偏好以及社交地位分析}{21}{chapter.6}%
+\contentsline {chapter}{\numberline {第7章}基于驻留点、应用偏好和社交地位分析结果的用户职住特征分析}{22}{chapter.7}%
+\contentsline {chapter}{\heiti 结\hspace {\ccwd }论}{23}{section*.17}%
+\contentsline {chapter}{\heiti 参考文献}{24}{section*.20}%
+\contentsline {chapter}{\heiti 哈尔滨工业大学本科毕业设计（论文）原创性声明}{26}{section*.22}%
+\contentsline {chapter}{\heiti 致\hspace {\ccwd }谢}{27}{section*.24}%
+\contentsline {chapter}{\numberline {附录 1}外文资料原文}{28}{appendix.A}%
+\contentsline {section}{\numberline {1.1}Single-Objective Programming}{28}{section.A.1}%
+\contentsline {subsection}{\numberline {1.1.1}Linear Programming}{29}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Nonlinear Programming}{30}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Integer Programming}{30}{subsection.A.1.3}%
+\contentsline {chapter}{\numberline {附录 2}外文资料的调研阅读报告或书面翻译}{32}{appendix.B}%
+\contentsline {section}{\numberline {2.1}单目标规划}{32}{section.B.1}%
+\contentsline {subsection}{\numberline {2.1.1}线性规划}{32}{subsection.B.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}非线性规划}{33}{subsection.B.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}整数规划}{33}{subsection.B.1.3}%
+\contentsline {chapter}{\numberline {附录 3}其它附录}{34}{appendix.C}%

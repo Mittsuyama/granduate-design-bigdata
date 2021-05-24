@@ -1,0 +1,140 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{\mbox{#1}}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{data_count}
+\bibauthor{栗翘楚}\@. \bibtitle{分布式存储打开千亿级市场
+  深入推动行业数字化转型}\bibmark{[J]}\@.
+  \bibjournal{上海商业}\@, \bibyear{2021}\bibnumber{(04)}\textnormal{:
+  }\bibpages{5}\@.
+
+\bibitem{gfs}
+\bibauthor{Sanjay~Ghemawat H~G}\@. \bibtitle{The Google File
+  System}\bibmark{[J]}\@, \bibyear{2003}\@.
+
+\bibitem{mr_back}
+\bibauthor{DeWitt J}\@. \bibtitle{MapReduce: A major step backwards -
+  Washington}\bibmark{[J]}\@. \bibjournal{Certified Special Events
+  Professional}\@, \bibyear{2008}\@, \bibvolume{544}\bibnumber{(21)}\@.
+
+\bibitem{2020_mobile}
+\bibauthor{孙冰}\@.
+  \bibtitle{谁在为数字经济铺路架桥？中国5G和中国手机}\bibmark{[J]}\@.
+  \bibjournal{中国经济周刊}\@,
+  \bibyear{2020}\bibnumber{(20)}\textnormal{: }\bibpages{21\textnormal{-}24}\@.
+
+\bibitem{kong_people}
+\bibauthor{孔扬鑫}\@.
+  \bibtitle{基于手机信令数据的人口流动分析}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\textnormal{: }\bibschool{华东师范大学}\@,
+  \bibyear{2017}\@.
+
+\bibitem{liu_pos_forecast}
+\bibauthor{刘奕杉}\@.
+  \bibtitle{基于运营商数据的用户位置预测系统研究}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\textnormal{: }\bibschool{北京邮电大学}\@,
+  \bibyear{2019}\@.
+
+\bibitem{chang_job_space}
+\bibauthor{常在春}\@.
+  \bibtitle{基于手机信令数据的延庆区职业空间关系研究}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\textnormal{: }\bibschool{北京林业大学}\@,
+  \bibyear{2019}\@.
+
+\bibitem{yang_beijing_district}
+\bibauthor{杨振山\@, 苏锦华\@, 杨航, et~al}\@.
+  \bibtitle{基于多源数据的城市功能区精细化研究 ——
+  以北京为例}\bibmark{[J]}\@. \bibjournal{地理研究}\@,
+  \bibyear{2021}\@, \bibvolume{40}\bibnumber{(02)}\textnormal{:
+  }\bibpages{477\textnormal{-}494}\@.
+
+\bibitem{quanzhou}
+\bibauthor{毋亭 �}\@. \bibtitle{基于 POI
+  数据的城市功能区划分和识别}\bibmark{[J]}\@.
+  \bibjournal{辽宁大学学报(自然科学版)}\@, \bibyear{2021}\@,
+  \bibvolume{48}\bibnumber{(01)}\textnormal{: }\bibpages{28\textnormal{-}37}\@.
+
+\bibitem{wang_beijing}
+\bibauthor{王 �\@, 王 �\@, 刘 �, et~al}\@.
+  \bibtitle{基于手机信令数据的北京市职住空间分布格局及匹配特征}\bibmark{[J]}\@.
+  \bibjournal{地理科学进展}\@, \bibyear{2020}\@,
+  \bibvolume{39}\bibnumber{(12)}\textnormal{:
+  }\bibpages{2028\textnormal{-}2042}\@.
+
+\bibitem{zhang_poi}
+\bibauthor{张景奇;史文宝;修春亮;}\@. \bibtitle{poi
+  数据在中国城市研究中的应用}\bibmark{[J]}\@.
+  \bibjournal{地理科学}\@, \bibyear{2021}\@,
+  \bibvolume{41}\bibnumber{(01)}\textnormal{:
+  }\bibpages{140\textnormal{-}148}\@.
+
+\bibitem{shao_jiejing}
+\bibauthor{邵钰涵;殷雨婷;薛贞颖;}\@.
+  \bibtitle{基于街景大数据的北京、上海街景舒适度评价及比较}\bibmark{[J]}\@.
+  \bibjournal{风景园林}\@, \bibyear{2021}\@,
+  \bibvolume{28}\bibnumber{(01)}\textnormal{: }\bibpages{53\textnormal{-}59}\@.
+
+\bibitem{li_minibatch}
+\bibauthor{李斌;张金焕;封靖川;}\@.
+  \bibtitle{基于minibatch-kmeans和xgboost算法的大型场所wlan室内定位的方法}\bibmark{[J]}\@.
+  \bibjournal{数字技术与应用}\@, \bibyear{2018}\@,
+  \bibvolume{36}\bibnumber{(10)}\textnormal{:
+  }\bibpages{139\textnormal{-}140}\@.
+
+\bibitem{wang_huaxiang}
+\bibauthor{王岩;范子贤;李成名;戴昭鑫;}\@.
+  \bibtitle{利用手机信令数据刻画不同人物画像}\bibmark{[J]}\@.
+  \bibjournal{测绘通报}\@, \bibyear{2021}\bibnumber{(01)}\textnormal{:
+  }\bibpages{84\textnormal{-}89}\@.
+
+\bibitem{zheng_game}
+\bibauthor{郑宝鑫;周雪松;李斌;唐宇;}\@.
+  \bibtitle{基于用户画像、信令挖掘技术的手机游戏产品推广}\bibmark{[C]}
+  //\thinspace{}\@. \bibyear{2010}\textnormal{: }\bibpages{4}\@.
+
+\bibitem{xue_liaoning_dist}
+\bibauthor{{薛冰}\@, Bing X~U~E\@, {赵冰玉}, et~al}\@. \bibtitle{辽宁
+  POI 功能区识别方法}\bibmark{[J]}\@, \bibyear{2020}\@.
+
+\bibitem{phithakkitnukoon_activity-aware_2010}
+\bibauthor{Phithakkitnukoon S\@, Horanont T\@, Di~Lorenzo G, et~al}\@.
+  \bibtitle{Activity-{Aware} {Map}: {Identifying} {Human} {Daily} {Activity}
+  {Pattern} {Using} {Mobile} {Phone} {Data}}\bibmark{[C/OL]}
+  //\thinspace{}\bibeditor{Salah A~A\@, Gevers T\@, Sebe N, et~al}\@.
+  \bibbooktitle{Lecture {Notes} in {Computer} {Science}\textnormal{: }Human
+  {Behavior} {Understanding}}\@. \bibaddress{Berlin, Heidelberg}\textnormal{:
+  }\bibpublisher{Springer}\@, \bibyear{2010}\textnormal{:
+  }\bibpages{14\textnormal{-}25}\@.
+  \url{http://dx.doi.org/10.1007/978-3-642-14715-9_3}\@.
+
+\bibitem{dashdorj_semantic_2018}
+\bibauthor{Dashdorj Z\@, Sobolevsky S\@, Serafini L, et~al}\@.
+  \bibtitle{Semantic {Enrichment} of {Mobile} {Phone} {Data} {Records} {Using}
+  {Background} {Knowledge}}\bibmark{[J/OL]}\@. \bibjournal{Knowledge-Based
+  Systems}\@, \bibyear{2018}\@, \bibvolume{143}\textnormal{:
+  }\bibpages{225\textnormal{-}235}\@.
+  \url{http://dx.doi.org/10.1016/j.knosys.2017.11.038}\@.
+
+\end{thebibliography}
